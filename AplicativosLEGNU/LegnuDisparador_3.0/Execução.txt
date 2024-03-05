@@ -1,0 +1,1 @@
+java -Xmx8g -Xms4g --module-path "/AplicativosLEGNU/openjfx-21.0.2_linux-x64_bin-sdk/javafx-sdk-21.0.2/lib" --add-modules javafx.controls,javafx.fxml -jar LegnuDisparador_3.0.jar
